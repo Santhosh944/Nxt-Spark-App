@@ -85,8 +85,10 @@ src/
 │   └── ThemeAndVideoContext
 ├── App.js
 └── index.js
+```
+---
 
-⚙️ Installation & Setup (Local)
+## ⚙️ Installation & Setup (Local)
 
 Clone the repository:
 git clone https://github.com/Santhosh944/Nxt-Spark-App.git
@@ -100,7 +102,9 @@ npm install
 Start the development server:
 npm start
 
-🧪 Key Concepts Implemented
+---
+
+## 🧪 Key Concepts Implemented
 JWT Authentication
 Protected Routes
 Conditional Rendering
@@ -108,9 +112,10 @@ API Status Handling
 Context API for Global State
 Responsive Design
 Styled Components
-
 Component Reusability
-📚 Learning Outcomes
+---
+
+## 📚 Learning Outcomes
 Built a real-world React application
 Implemented authentication and authorization
 Integrated REST APIs with proper error handling
@@ -118,9 +123,14 @@ Used Context API for global state management
 Improved UI/UX with theme switching
 Structured a scalable React project
 
-📸 Screenshots
-<img width="1918" height="971" alt="Home Page" src="https://github.com/user-attachments/assets/c0aad42e-1141-4ec5-a9dc-84a0eeef6960" />
-👨‍💻 Author
 
+---
+
+## 📸 Screenshots
+<img width="1918" height="971" alt="Home Page" src="https://github.com/user-attachments/assets/c0aad42e-1141-4ec5-a9dc-84a0eeef6960" />
+
+---
+
+## 👨‍💻 Author
 Santhosh
 GitHub: https://github.com/Santhosh944
