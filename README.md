@@ -105,24 +105,26 @@ npm start
 ---
 
 ## 🧪 Key Concepts Implemented
-JWT Authentication
-Protected Routes
-Conditional Rendering
-API Status Handling
-Context API for Global State
-Responsive Design
-Styled Components
-Component Reusability
+
+1. JWT Authentication  
+2. Protected Routes  
+3. Conditional Rendering  
+4. API Status Handling  
+5. Context API for Global State  
+6. Responsive Design  
+7. Styled Components  
+8. Component Reusability   
+
 ---
 
 ## 📚 Learning Outcomes
-Built a real-world React application
-Implemented authentication and authorization
-Integrated REST APIs with proper error handling
-Used Context API for global state management
-Improved UI/UX with theme switching
-Structured a scalable React project
 
+- Built a real-world React application  
+- Implemented authentication and authorization  
+- Integrated REST APIs with proper error handling  
+- Used Context API for global state management  
+- Improved UI/UX with theme switching  
+- Structured a scalable React project  
 
 ---
 
